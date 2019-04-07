@@ -1,4 +1,4 @@
-# udacity-blockchain-architecture
+# secure-cert-blockchain
 Architect a Blockchain Supply Chain Solution for Certification Schemes - Part A
 
 ## Overview
