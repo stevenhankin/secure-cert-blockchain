@@ -3,11 +3,11 @@ Architect a Blockchain Supply Chain Solution for Certification Schemes - Part A
 
 SEE THE DIAGRAMS HERE: https://github.com/stevenhankin/secure-cert-blockchain/wiki
 
-## Overview
+### Overview
 This architecture is for a decentralized approach for certifaction schemes and certification issuance and verification.
 Any party can become a Certifier and assign a suitable Authority that can delegate authority of certification.
 
-## Example Use Cases
+### Example Use Cases
 | Authority                         | Certifier                   | Recipient     | Inspector         |
 |-----------------------------------|-----------------------------|---------------|-------------------|
 |Specialty Coffee Association       |London School Of Coffee      |Trainee Barista| Starbucks Manager |
