@@ -3,7 +3,7 @@ Architect a Blockchain Supply Chain Solution for Certification Schemes - Part A
 
 ## Overview
 This architecture is for a decentralized approach for certifaction schemes and certification issuance and verification.
-Any party can become a Certifier (e.g. Coffee Barista Training group, Vehicle Testing)
+Any party can become a Certifier and assign a suitable Authority that can delegate authority of certification.
 
 ## Example Use Cases
 | Authority                         | Certifier                   | Recipient     | Inspector         |
