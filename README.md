@@ -9,6 +9,7 @@ Any party can become a Certifier and assign a suitable Authority that can delega
 
 ### Example Use Cases
 Here are 3 examples to illustrate how this could work:
+
 | Authority                         | Certifier                   | Recipient     | Inspector         |
 |-----------------------------------|-----------------------------|---------------|-------------------|
 |Specialty Coffee Association       |London School Of Coffee      |Trainee Barista| Starbucks Manager |
